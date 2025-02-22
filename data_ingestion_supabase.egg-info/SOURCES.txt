@@ -1,0 +1,8 @@
+README.md
+setup.py
+data_ingestion_supabase.egg-info/PKG-INFO
+data_ingestion_supabase.egg-info/SOURCES.txt
+data_ingestion_supabase.egg-info/dependency_links.txt
+data_ingestion_supabase.egg-info/requires.txt
+data_ingestion_supabase.egg-info/top_level.txt
+tests/test_ingest.py

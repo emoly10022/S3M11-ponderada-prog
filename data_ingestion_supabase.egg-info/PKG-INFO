@@ -1,0 +1,8 @@
+Metadata-Version: 2.2
+Name: data_ingestion_supabase
+Version: 0.1
+Requires-Dist: requests
+Requires-Dist: supabase
+Requires-Dist: pytest
+Requires-Dist: python-dotenv
+Dynamic: requires-dist
